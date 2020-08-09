@@ -4,6 +4,7 @@
 - ✨ Austin, Tx
 - 🔭 I’m currently working on my Full-Stack Developer Certification at Austin Coding Academy
 - 🌱 I’m currently learning all things JavaScript, Node, and React
+- 🥅 2020 Goals: Land my first job as a Full-Stack Developer!
 - 📫 How to reach me: shoot me an email @ destinyfsetzer@gmail.com
 - ⚡ Fun fact: I will quote The Office all the time...anytime.
 
@@ -25,7 +26,7 @@
 
 
 
-
+[linkedin]: https://linkedin.com/in/destinyfsetzer
 
 
 <!--
