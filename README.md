@@ -8,6 +8,7 @@
 - 📫 How to reach me: shoot me an email @ destinyfsetzer@gmail.com
 - ⚡ Fun fact: I will quote The Office all the time...anytime.
 
+<br/>
 ---
 
 ### Languages and Tools:
@@ -20,12 +21,13 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-
+<br/>
 ---
 
 ### Connect with me:
 [<img align="left" alt="destinyfsetzer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br/>
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=destinyfsetzer)
