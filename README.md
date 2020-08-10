@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Photographer, and Designer 
 - ✨ Austin, Tx
-- 🔭 I’m currently working on my Full-Stack Developer Certification at Austin Coding Academy
+- 🔭 I’m currently working on my Full-Stack Web Development Certification at Austin Coding Academy
 - 🌱 I’m currently learning all things JavaScript, Node, and React
 - 🥅 2020 Goals: Land my first job as a Full-Stack Developer!
 - 📫 How to reach me: shoot me an email @ destinyfsetzer@gmail.com OR [<img align="left" alt="destinyfsetzer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
