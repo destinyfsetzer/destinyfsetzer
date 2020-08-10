@@ -1,7 +1,7 @@
 ### Hi there, I'm Destiny 👋
 
-## I'm a Developer, Photographer, and Designer
-- ✨ Austin, Tx
+## Full-Stack Web Developer && Photographer living in Austin, Tx
+<!-- - ✨ Austin, Tx -->
 - 🔭 I’m currently working on my Full-Stack Web Development Certification at Austin Coding Academy
 - 🌱 I’m currently learning all things JavaScript, Node, and React
 - 🥅 2020 Goals: Land my first job as a Full-Stack Developer!
