@@ -2,9 +2,8 @@
 
 ## Full-Stack Web Developer && Photographer living in Austin, TX
 <!-- - ✨ Austin, Tx -->
-- 🔭 I’m currently working on my Full-Stack Web Development Certification at Austin Coding Academy
-- 🌱 I’m currently learning all things JavaScript, Node, and React
-- 🥅 2020 Goals: Land my first job as a Full-Stack Developer!
+- 🔭 I’m currently working with React and Tailwind CSS
+- 🥅 2021 Goals: Find a creative team environment to learn and flourish in.
 - 📫 How to reach me: shoot me an email @ destinyfsetzer@gmail.com
 - ⚡ Fun fact: I will quote The Office all the time...anytime.
 
