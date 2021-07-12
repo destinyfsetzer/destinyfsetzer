@@ -2,10 +2,10 @@
 
 ## Full-Stack Web Developer && Photographer living in Austin, TX
 <!-- - ✨ Austin, Tx -->
-- 🔭 I’m currently learning WordPress and PHP 
-- 🥅 2021 Goals: Find a creative team environment to learn and flourish in.
-- 📫 How to reach me: shoot me an email @ destinyfsetzer@gmail.com
-- ⚡ Fun fact: I will quote The Office all the time...anytime.
+- 🔭  I’m currently learning WordPress and PHP 
+- 🥅  2021 Goals: Find a creative team environment to learn and flourish in.
+- 📫  How to reach me: shoot me an email @ destinyfsetzer@gmail.com
+- ⚡  Fun fact: I will quote The Office all the time...anytime.
 
 <br/>
 
