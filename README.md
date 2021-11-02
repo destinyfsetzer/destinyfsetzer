@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Destiny</h1>
 <h3 align="center">》Design-oriented Front-end Developer《</h3>
 
-- 🔭 I’m currently working on ** learning more about web optimization and accessibility**
+- 🔭 I’m currently working on all things front end
 
 - 🌱 I’m currently learning **Adobe XD & Illustrator**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **destinyfsetzer@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RhSH5I5CZ8RAnN3qDSQgJJ6Etd_FQLBJ/view">View Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RhSH5I5CZ8RAnN3qDSQgJJ6Etd_FQLBJ/view">: Resume</a>
 
 - ⚡ Fun fact **I'm a certified Cicerone* (I know A LOT about beer)**
 
