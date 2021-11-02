@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm Destiny</h1>
-<h3 align="center">Design-oriented Front-end Developer</h3>
+<h3 align="center">》Design-oriented Front-end Developer《</h3>
 
 - 🔭 I’m currently working on ** learning more about web optimization and accessibility**
 
